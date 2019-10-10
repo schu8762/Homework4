@@ -10,6 +10,21 @@ namespace Homework4
     {
         static void Main(string[] args)
         {
+            string sentence;
+
+            Console.WriteLine("Input a sentence");
+            Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+            Console.ReadKey();
         }
     }
 }
